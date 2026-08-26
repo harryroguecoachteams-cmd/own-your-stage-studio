@@ -1,0 +1,13 @@
+{
+  "name": "own-your-stage-studio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Node.js website prototype for Own Your Stage Studio.",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
